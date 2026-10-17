@@ -1,11 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-10-17",
   "title": "盯盘之王",
   "subtitle": "A股实时盯盘 · 浏览器插件",
   "blocks": [
-    { "type": "img", "src": "images/banner.png", "caption": "A股盯盘助手 · 实时行情 / K线分时 / 价格提醒 / 估值排行" },
-    { "type": "divider" },
     { "type": "h2", "text": "券商开户 · 专属费率" },
     { "type": "p", "text": "开户费率：A股全包万 0.741，ETF 万 0.5，国债逆回购 1 折。\n微信扫码添加好友，即可咨询开户。" },
     { "type": "img", "src": "images/kaihu.jpg", "caption": "微信扫码 · 添加好友（开户咨询）" },
