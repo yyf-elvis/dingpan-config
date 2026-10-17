@@ -6,7 +6,7 @@
   "blocks": [
     { "type": "h2", "text": "简介" },
     { "type": "p", "text": "A股盯盘助手是一款专注 A 股实时盯盘的浏览器插件：自选股行情、K线与分时图、价格提醒、行情热榜、板块与估值排行、资讯快讯，打开浏览器一屏掌握。" },
-    { "type": "img", "src": "images/example.svg", "caption": "示例图 · 替换 about/images/ 里的图片即可展示你自己的截图" },
+    { "type": "img", "src": "images/example.png", "caption": "示例图 · 替换 about/images/ 里的图片即可展示你自己的截图" },
     { "type": "h2", "text": "主要功能" },
     { "type": "list", "items": [
       "自选股：实时价格、涨跌、市值、成交量、迷你走势",
