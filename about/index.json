@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-10-17",
+  "title": "A股盯盘助手",
+  "subtitle": "Chrome 浏览器插件 · 图文内容在线更新",
+  "blocks": [
+    { "type": "h2", "text": "简介" },
+    { "type": "p", "text": "A股盯盘助手是一款专注 A 股实时盯盘的浏览器插件：自选股行情、K线与分时图、价格提醒、行情热榜、板块与估值排行、资讯快讯，打开浏览器一屏掌握。" },
+    { "type": "img", "src": "images/example.svg", "caption": "示例图 · 替换 about/images/ 里的图片即可展示你自己的截图" },
+    { "type": "h2", "text": "主要功能" },
+    { "type": "list", "items": [
+      "自选股：实时价格、涨跌、市值、成交量、迷你走势",
+      "K线 / 分时：MACD、KDJ、RSI、BIAS、W&R 指标与多周期切换",
+      "价格提醒：突破 / 跌破自动系统通知",
+      "行情：指数、热榜、涨停天梯、ETF、板块与估值排行",
+      "资讯：快讯 / 东财 / 新浪快捷筛选",
+      "图标伪装：把工具栏图标伪装成翻译 / 设置 / 收藏 / 邮件"
+    ] },
+    { "type": "divider" },
+    { "type": "h2", "text": "内容更新说明" },
+    { "type": "p", "text": "本页图文托管在 GitHub 仓库 dingpan-config 的 about/ 目录：修改 index.json 与 images/ 里的图片，提交推送后在插件里点「刷新」即可查看最新内容，无需更新插件版本。" },
+    { "type": "h3", "text": "联系方式" },
+    { "type": "p", "text": "GitHub：github.com/yyf-elvis" }
+  ]
+}
