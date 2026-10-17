@@ -2,10 +2,17 @@
   "version": 1,
   "updated": "2026-10-17",
   "title": "盯盘之王",
+  "subtitle": "A股实时盯盘 · 浏览器插件",
   "blocks": [
-    { "type": "img", "src": "images/kaihu.jpg", "caption": "微信 · 扫码添加好友（开户咨询）" },
-    { "type": "img", "src": "images/douyin.png", "caption": "抖音 · Wall Street Silver" },
-    { "type": "img", "src": "images/rednote.jpg", "caption": "小红书 · 盯盘之王" },
+    { "type": "divider" },
+    { "type": "h2", "text": "开户" },
+    { "type": "p", "text": "开户费率：A股全包万0.741，ETF 万0.5，国债逆回购 1 折。微信扫码添加好友，即可咨询开户。" },
+    { "type": "img", "src": "images/kaihu.jpg", "caption": "微信扫码 · 添加好友（开户咨询）" },
+    { "type": "divider" },
+    { "type": "h2", "text": "关注我" },
+    { "type": "p", "text": "盘面解读、插件更新与使用答疑，欢迎关注以下账号：" },
+    { "type": "img", "src": "images/douyin.png", "caption": "抖音 · Wall Street Silver（抖音号 53971399804）" },
+    { "type": "img", "src": "images/rednote.jpg", "caption": "小红书 · 盯盘之王（小红书号 94555289501）" },
     { "type": "img", "src": "images/wechat.png", "caption": "微信公众号 · 微信搜一搜「盯盘之王」" }
   ]
 }
